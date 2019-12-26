@@ -25,7 +25,6 @@ git clone https://github.com/pjialin/py12306
 
 pip install -r requirements.txt
 ```
-注意：另外需要配置chromedriver，保存在python目录，并写入环境变量
 **2. 配置程序**
 ```bash
 cp env.py.example env.py
